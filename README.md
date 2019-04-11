@@ -1,4 +1,4 @@
-# SOLID Programla Örnekleri
+# SOLID Programlama Örnekleri
 
 Bu repo içerisinde SOLID programlama öğrenmek isteyenler için örnek kodlar bulunmakta. 
 
