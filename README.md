@@ -6,7 +6,7 @@ Eğer değiştirmek ve daha anlaşılır kılmak istediğiniz yerler varsa, ya d
 
 # Video Anlatım
 
-Burada kullanılan kodlar, @tarikguney'in video anlatımlarından alınmıştır. Kodların anlatımlarını görmek için aşağıda ki çalma listesine bakabilirsiniz:
+Burada kullanılan kodlar, [@tarikguney](https://github.com/tarikguney)'in video anlatımlarından alınmıştır. Kodların anlatımlarını görmek için aşağıda ki çalma listesine bakabilirsiniz:
 
 https://www.youtube.com/watch?v=3vmTR0iDO1k&list=PL_Z0TaFYSF3I7zyoHX-ubeSq_l0e2ztjm
 
